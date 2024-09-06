@@ -1,0 +1,30 @@
+h1 {
+    font-size: 80px;
+}
+
+h2 {
+    font-size: 60px;
+    border-left: 6px solid yellow;
+    background-color: lightgrey;
+}
+
+p {
+    font-size: 60px;
+    border-left: 6px solid red;
+    background-color: lightgrey;
+  }
+.center1 {
+    text-align: center;
+    border: 5px solid black;
+}
+
+img {
+    height: 500px;
+    width: 800px;
+}
+
+.center2 {
+    text-align: center;
+    border: 5px solid goldenrod;
+    background-color: goldenrod;
+}
